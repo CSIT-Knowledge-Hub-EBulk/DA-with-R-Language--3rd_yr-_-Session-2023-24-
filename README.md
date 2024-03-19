@@ -1,4 +1,4 @@
-# DA with R Language 3rdyr (Session-2023-24)
+DA with R Language 3rd year (Session-2023-24)
 Offer DA-Lab DATA ANALYTICS-LAB(KIT-651) with R programming language.
 The Data Analytics Lab with R Language course proposal intends to teach students data analytics using R. Students will learn the R programming language and its applications in data analytics, data manipulation, exploration, and visualisation, statistical analysis and modelling using R packages, real-world datasets and practical projects, and data-driven analysis and interpretation to develop critical thinking and problem-solving skills.
 
